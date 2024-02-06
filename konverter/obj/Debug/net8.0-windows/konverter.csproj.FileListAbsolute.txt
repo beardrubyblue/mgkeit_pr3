@@ -1,0 +1,16 @@
+D:\progromirovanie\konverter\konverter\bin\Debug\net8.0-windows\konverter.exe
+D:\progromirovanie\konverter\konverter\bin\Debug\net8.0-windows\konverter.deps.json
+D:\progromirovanie\konverter\konverter\bin\Debug\net8.0-windows\konverter.runtimeconfig.json
+D:\progromirovanie\konverter\konverter\bin\Debug\net8.0-windows\konverter.dll
+D:\progromirovanie\konverter\konverter\bin\Debug\net8.0-windows\konverter.pdb
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.Form1.resources
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.csproj.GenerateResource.cache
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.GeneratedMSBuildEditorConfig.editorconfig
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.AssemblyInfoInputs.cache
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.AssemblyInfo.cs
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.csproj.CoreCompileInputs.cache
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.dll
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\refint\konverter.dll
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.pdb
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\konverter.genruntimeconfig.cache
+D:\progromirovanie\konverter\konverter\obj\Debug\net8.0-windows\ref\konverter.dll
